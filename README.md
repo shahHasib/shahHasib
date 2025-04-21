@@ -5,7 +5,7 @@
 ## 💡 About Me  
 🎯 Passionate *Full Stack Developer* with expertise in *ReactJS, Laravel, AI, and APIs*.  
 💻 Building *high-performance web applications* and exploring *AI-driven solutions*.  
-📌 *Final Year Project:* [Infinity Blog](https://github.com/shahHasib/infinity-blog) – AI-powered blogging platform!  
+📌 *Final Year Project:* [Infinity Blog](https://infinity-blog-bay.vercel.app/) – A blogging platform!  
 
 ---
 
@@ -40,21 +40,21 @@
 
 ---
 
-## 🚀 Featured Projects  
-### 🌟 [Infinity Blog](https://github.com/your-username/infinity-blog)  
-*Tech:* React, Laravel, AI-powered content, MySQL  
-📝 AI-driven blogging platform with gamification and real-time interactions.  
+## 🚀  Projects:- 
+### 🌟 [Infinity Blog](https://infinity-blog-bay.vercel.app)  
+*Tech:* React, Laravel,Bootstrap , MySQL  
+📝 A blogging platform with real-time interactions.  
 
 ### 🌟 [Quizer](https://github.com/your-username/quizer)  
-*Tech:* React, Laravel, MongoDB  
-📝 A *quiz-based learning platform* with real-time feedback and analytics.  
+*Tech:* HTML,CSS,JAVASCRIPT,PHP,MYSQL 
+📝 A *quiz-based learning platform* with scoreboard analytics.  
 
 ---
 
 ## 📬 Contact Me  
-💼 *Portfolio:* 
-💬 *LinkedIn:* 
-📧 *Email:* codewithhassu@gmail.com  
+💼 *Portfolio:* https://github.com/shahHasib
+💬 *LinkedIn:* www.linkedin.com/in/shah-hasib-b60b25289
+📧 *Email:* shahhasib160@gmail.com  
 
 ---
 
